@@ -1,4 +1,6 @@
 ![HR Employee Report Copy_page-0001](https://github.com/praveenreddyvallem03/projects/assets/156457694/824885d1-4ad0-4c75-bdc7-859316e79903)
+![HR Employee Report Copy_page-0002](https://github.com/praveenreddyvallem03/projects/assets/156457694/b9a16e49-ef6f-42d5-b64e-fb318081180c)
+
 **DATA USED:**
 ![Data Used](https://github.com/praveenreddyvallem03/projects/assets/156457694/ef498d16-52b2-406d-a84b-db5fae50b790)
 **QUESTIONS:**
