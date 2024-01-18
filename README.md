@@ -1,5 +1,12 @@
 ![HR Employee Report Copy_page-0001](https://github.com/praveenreddyvallem03/projects/assets/156457694/824885d1-4ad0-4c75-bdc7-859316e79903)
+**DATA USED:**
+![Data Used](https://github.com/praveenreddyvallem03/projects/assets/156457694/ef498d16-52b2-406d-a84b-db5fae50b790)
+**QUESTIONS:**
+![Questions](https://github.com/praveenreddyvallem03/projects/assets/156457694/c3ef0242-577d-4fa9-aedb-3817425b1e2a)
+**Summary of Findings**
+![Summary of Findings](https://github.com/praveenreddyvallem03/projects/assets/156457694/7ae70e36-4f0f-441e-ac54-8311a65d90df)
+**Limitations**
+![Limitations](https://github.com/praveenreddyvallem03/projects/assets/156457694/b628de1e-e1fb-4ee8-af7a-b3bd696ac68d)
 
-![Limitations](https://github.com/praveenreddyvallem03/projects/assets/156457694/f4252e36-f3bf-4acb-95c7-2af79f52cff4)
-![Summary of Findings](https://github.com/praveenreddyvallem03/projects/assets/156457694/8aa0c67e-3fb0-4302-8b5d-6b4ef94853e2)
+
 
